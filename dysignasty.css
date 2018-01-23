@@ -1,0 +1,91 @@
+h1{
+	color:seagreen;
+	text-align:center;
+	
+}
+body{
+	background-image:url('gabuh.jpg');
+	background-size:cover;
+	color:brown;
+}
+
+#main{
+    width:80%;
+	height:100vn;
+	background-size: cover;
+	}
+	
+nav{
+	width:100%;
+    height: 100px;
+	background-color:palegoldenrod;
+	line-height:80px
+}
+
+nav ul{
+float: right;
+}
+
+nav ul li{
+	list-style-type: none;
+	display:inline-block;
+	transition: 0.9s all
+}
+
+nav ul li:hover{
+	background-color:peru;
+}
+nav ul li a{
+	 text-decoration: none;
+	 colour:whitesmoke;
+	 padding: 40px;
+}
+h1{
+	float:right-side;
+}
+div class{
+	 float: right;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 1px solid #789;
+}
+
+div.img img {
+    width: 100%;
+    height: 180px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: left;
+}
+p{
+    text-align: justify;
+}
+h2{
+	float:center-left;
+}
+h3{
+	
+	
+}
+.product{
+	padding: 30px;
+	margin: 40px;
+	background-color:
+}
+.suits{
+	padding: 30px;
+	margin: 40px;
+}
+
+.social_media{
+	text-align:center;
+}
